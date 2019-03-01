@@ -1,17 +1,16 @@
 # Project Title
-Weather Conditions' impact on Recreational Centers
+Assess the ROI on buying a property in New York? Can the rental income be used to payoff the mortgage of that apartment in New York?
 # Team Members
-Jimmy Yu, Lucas Lessa, Regan Bloss, Jatin Bagga
+Jimmy Yu, Lucas Lessa, Jatin Bagga
 # Project Description/Outline
-Establish relationships between the weather conditions and revenue/other metrics
+Establish relationships including between between rental income and mortgage
 # Research Questions to Answer
-1. API source
-2. Anonymized or published data from Recreational centers
+1. Which neighborhoods have a higher ROI?
+2. 
 3. Establishing metrics
 4. Outline assumptions and pitfalls
 # Data Sets to be Used
-1. API Weather
-2. Possibly API Census
-3. Recreational Center data
+1. Zillow and other APIs
+
 # Rough Breakdown of Tasks
 TBD
